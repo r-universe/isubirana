@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "compareGroups"]
-	path = compareGroups
-	url = https://github.com/isubirana/comparegroups
 [submodule "ImportExport"]
 	path = ImportExport
 	url = https://github.com/cran/ImportExport
+[submodule "compareGroups"]
+	path = compareGroups
+	url = https://github.com/isubirana/comparegroups
